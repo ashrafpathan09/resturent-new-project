@@ -32,7 +32,7 @@ require("lib/head.php");
             <!-- Content -->
 
             <?php
-            include("pages/dashboard.php");
+            include("placeholder.php");
             ?>
             <!-- / Content -->
 

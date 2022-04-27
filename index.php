@@ -31,7 +31,9 @@ require("lib/head.php");
           <div class="content-wrapper">
             <!-- Content -->
 
-            
+            <?php
+            include("pages/dashboard.php");
+            ?>
             <!-- / Content -->
 
             
